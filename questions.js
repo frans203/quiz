@@ -21,7 +21,7 @@ let questions = [
   },
   {
     question: "An external javascript file need an script tag?",
-    options: ["Verdade", "Falso"],
+    options: ["True", "False"],
     answer: 1,
   },
   {
